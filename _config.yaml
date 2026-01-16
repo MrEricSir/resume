@@ -4,7 +4,11 @@ repository_url: https://github.com/MrEricSir
 google_analytics:
 theme: jekyll-theme-hacker
 author: Eric Gregory
-image: gorillas.bas.png
+url: "https://mrericsir.github.io"
+baseurl: "/resume"
+plugins:
+  - jekyll-seo-tag
+image: "/gorillas.bas.png"
 social:
   name: Eric Gregory
   links:
