@@ -1,4 +1,4 @@
-# 👋 Info
+# 👋 Resume
 
 Senior Software Engineer \| Generalist \| Full Stack \| Windows Expert \| FOSS Advocate \| Tinkerer \| Traveler
 
