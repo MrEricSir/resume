@@ -1,12 +1,12 @@
 # 👋 Info
 
-Senior Software Engineer | Generalist | Full Stack | Windows Expert | FOSS Advocate | Tinkerer | Traveler
+Senior Software Engineer \| Generalist \| Full Stack \| Windows Expert \| FOSS Advocate \| Tinkerer \| Traveler
 
 San Francisco, California
 
 eric.paul.gregory@gmail.com
 
-[Open Source Portfolio](https://mrericsir.github.io/) | [LinkedIn](https://www.linkedin.com/in/eric-p-gregory/)
+[Open Source Portfolio](https://mrericsir.github.io/) \| [LinkedIn](https://www.linkedin.com/in/eric-p-gregory/)
 
 
 # ⌨️ Work Experience
