@@ -4,3 +4,9 @@ show_downloads: false
 repository_url: https://github.com/MrEricSir
 google_analytics:
 theme: jekyll-theme-hacker
+author: Eric Gregory
+social:
+  name: Eric Gregory
+  links:
+    - https://github.com/MrEricSir/
+    - https://www.linkedin.com/in/eric-p-gregory/
