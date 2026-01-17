@@ -1,11 +1,10 @@
 title: Eric Gregory
 show_downloads: false
 repository_url: https://github.com/MrEricSir
-google_analytics:
-theme: jekyll-theme-hacker
 author: Eric Gregory
 url: "https://mrericsir.github.io"
 baseurl: "/resume"
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-seo-tag
 image: "/gorillas.bas.png"
