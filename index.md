@@ -6,7 +6,7 @@ San Francisco, California
 
 eric.paul.gregory@gmail.com
 
-[Open Source Portfolio](https://mrericsir.github.io/) \| [LinkedIn](https://www.linkedin.com/in/eric-p-gregory/)
+[mrericsir.github.io](https://mrericsir.github.io/) \| [linkedin.com/in/eric-p-gregory](https://www.linkedin.com/in/eric-p-gregory/)
 
 
 # ⌨️ Work Experience
@@ -34,11 +34,11 @@ Aug 2015 - Dec 2020
 
 Tech stack: Python, Django, Falcon, Windows, C++, Postgres, AWS, Docker, C++
 
-- **POS Integration:** Developed integrations for **Windows**-based POS systems. Capturing receipt data without drivers.
 - **Database Optimization (SQL):** Managed a massive **Postgres** database via **Django**; successfully reduced primary DB load and storage size by migrating unstructured customer data to **AWS S3**.
-- **High-Availability Migrations:** Orchestrated **data migrations** using backup follower databases to avoid production downtime and stress on the main instance.
 - **Cloud & Infrastructure:** Built and Dockerized **microservice** for deployment on **AWS EC2**.
 - **ML Training Tool:** Co-authored a web tool for labeling unstructured receipt data for a **machine learning** service.
+- **POS Integration:** Developed integrations for **Windows**-based POS systems. Capturing receipt data without drivers.
+- **High-Availability Data Migrations:** Orchestrated **data migrations** using backup follower databases to avoid production downtime and stress on the main instance.
 
 
 ## [BitTorrent](https://www.bittorrent.com/)
@@ -61,8 +61,8 @@ Nov 2010 - Oct 2013
 
 Tech stack: Vala, C++, GTK+, Qt, QML, Javascript, HTML, GStreamer, Ubuntu Linux
 
-- **Mobile Development:** Developed the photo gallery application for [Ubuntu Touch](https://en.wikipedia.org/wiki/Ubuntu_Touch) (aka "Ubuntu Phone") using C++, JavaScript, and Qt/QML.
 - **Local Database (SQLite):** Implemented **SQLite**-based storage systems for the Shotwell photo manager, Geary email client, and Ubuntu Phone Gallery
+- **Mobile Development:** Developed the photo gallery application for [Ubuntu Touch](https://en.wikipedia.org/wiki/Ubuntu_Touch) (aka "Ubuntu Phone") using C++, JavaScript, and Qt/QML.
 - **Protocol Implementation:** Contributed to custom **IMAP/SMTP** stacks for Geary.
 - **UI Design:** Crafted **HTML**-based email display for Geary, QML-based UI for Ubuntu Phone, and refreshed **GTK+** UI for Shotwell.
 
@@ -82,5 +82,5 @@ Mar 2008 - Nov 2010
 ## [San Francisco State University](https://www.sfsu.edu/)
 - Master of Science, Computer Science, 2009
 - Bachelor of Science, Comptuter Science, 2007
-- Dean’s List
+- Dean's List
 - President of ACM chapter
