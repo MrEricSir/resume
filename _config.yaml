@@ -6,7 +6,7 @@ baseurl: "/resume"
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-seo-tag
-image: "/gorillas.bas.png"
+image: "https://mrericsir.github.io/resume/gorillas.bas.png"
 social:
   name: Eric Gregory
   links:
