@@ -1,10 +1,12 @@
 # 👋 Resume
 
-Senior Software Engineer \| Generalist \| Full Stack \| Windows Expert \| FOSS Advocate \| Tinkerer \| Traveler
+**Eric Gregory**
 
 San Francisco, California
 
 eric.paul.gregory@gmail.com
+
+Senior Software Engineer \| Generalist \| Full Stack \| Windows Expert \| FOSS Advocate \| Tinkerer \| Traveler
 
 [mrericsir.github.io](https://mrericsir.github.io/) \| [linkedin.com/in/eric-p-gregory](https://www.linkedin.com/in/eric-p-gregory/)
 
@@ -32,7 +34,7 @@ Senior Software Engineer
 
 Aug 2015 - Dec 2020
 
-Tech stack: Python, Django, Falcon, Windows, C++, Postgres, AWS, Docker, C++
+Tech stack: Python, Django, Falcon, Windows, C++, Postgres, AWS, Docker, C++, DLL injection
 
 - **Database Optimization (SQL):** Managed a massive **Postgres** database via **Django**; successfully reduced primary DB load and storage size by migrating unstructured customer data to **AWS S3**.
 - **Cloud & Infrastructure:** Built and Dockerized **microservice** for deployment on **AWS EC2**.
@@ -72,6 +74,8 @@ Tech stack: Vala, C++, GTK+, Qt, QML, Javascript, HTML, GStreamer, Ubuntu Linux
 Software Team Lead
 
 Mar 2008 - Nov 2010
+
+Tech stack: C++, Java, Swing, Windows, ActiveX, DLL injection, Linux
 
 - **Reverse Engineering:** Developer on **multi-platform** security compliance suite written in **C++.**
 - **Team Lead Engineer:** Lead developer for Windows **sandboxing** application and deployment implementation of security compliance suite with **Java**-based UI, with Java applet and **ActiveX** client deployment option.
