@@ -25,7 +25,7 @@ Tech stack: C++, Qt, QML, Javascript, Boost, embedded Linux
 - **Frontend Development:** Created new product features for Origin wood carving tool in **C++** and **Qt/QML**
 - **Monetization & Extensions:** Engineered UI and high level product logic for a paid extension to the product.
 - **Hardware-Aware Logic:** Designed resilient trial-tracking logic to ensure accurate expiration even in cases of hardware failure (dead onboard CMOS battery.)
-- **QA Automation:** Crafted reliable, repeatable **automated tests** to catch regrssions prior to manual testing.
+- **QA Automation:** Crafted reliable, repeatable **automated tests** to catch regressions prior to manual testing.
 
 
 ## [Fivestars](https://www.fivestars.com/)
@@ -77,8 +77,8 @@ Mar 2008 - Nov 2010
 
 Tech stack: C++, Java, Swing, Windows, ActiveX, DLL injection, Linux
 
-- **Reverse Engineering:** Enahnced company's core product, a **multi-platform** security compliance suite written in **C++.**
-- **Team Lead Engineer:** Lead developer for Windows **sandboxing** application and deployment implementation of security compliance suite with **Java**-based UI, with Java applet and **ActiveX** client deployment option.
+- **Reverse Engineering:** Enhanced company's core product, a **multi-platform** security compliance suite written in **C++.**
+- **Team Lead Engineer:** Led projects including Windows **sandboxing** application and deployment implementation of security compliance suite with **Java**-based UI, with Java applet and **ActiveX** client deployment option.
 
 
 # 🎓 Education
