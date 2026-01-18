@@ -25,7 +25,7 @@ Tech stack: C++, Qt, QML, Javascript, Boost, embedded Linux
 - **Frontend Development:** Created new product features for Origin wood carving tool in **C++** and **Qt/QML**
 - **Monetization & Extensions:** Engineered UI and high level product logic for a paid extension to the product.
 - **Hardware-Aware Logic:** Designed resilient trial-tracking logic to ensure accurate expiration even in cases of hardware failure (dead onboard CMOS battery.)
-- **QA Automation:** Developed reliable, repeatable **automated tests **for high-priority features, significantly reducing manual testing overhead.
+- **QA Automation:** Crafted reliable, repeatable **automated tests** to catch regrssions prior to manual testing.
 
 
 ## [Fivestars](https://www.fivestars.com/)
@@ -64,7 +64,7 @@ Nov 2010 - Oct 2013
 Tech stack: Vala, C++, GTK+, Qt, QML, Javascript, HTML, GStreamer, Ubuntu Linux
 
 - **Local Database (SQLite):** Implemented **SQLite**-based storage systems for the Shotwell photo manager, Geary email client, and Ubuntu Phone Gallery
-- **Mobile Development:** Developed the photo gallery application for [Ubuntu Touch](https://en.wikipedia.org/wiki/Ubuntu_Touch) (aka "Ubuntu Phone") using C++, JavaScript, and Qt/QML.
+- **Mobile Development:** Co-created the photo gallery application for [Ubuntu Touch](https://en.wikipedia.org/wiki/Ubuntu_Touch) (aka "Ubuntu Phone") using C++, JavaScript, and Qt/QML.
 - **Protocol Implementation:** Contributed to custom **IMAP/SMTP** stacks for Geary.
 - **UI Design:** Crafted **HTML**-based email display for Geary, QML-based UI for Ubuntu Phone, and refreshed **GTK+** UI for Shotwell.
 
@@ -77,7 +77,7 @@ Mar 2008 - Nov 2010
 
 Tech stack: C++, Java, Swing, Windows, ActiveX, DLL injection, Linux
 
-- **Reverse Engineering:** Developer on **multi-platform** security compliance suite written in **C++.**
+- **Reverse Engineering:** Enahnced company's core product, a **multi-platform** security compliance suite written in **C++.**
 - **Team Lead Engineer:** Lead developer for Windows **sandboxing** application and deployment implementation of security compliance suite with **Java**-based UI, with Java applet and **ActiveX** client deployment option.
 
 
@@ -85,6 +85,6 @@ Tech stack: C++, Java, Swing, Windows, ActiveX, DLL injection, Linux
 
 ## [San Francisco State University](https://www.sfsu.edu/)
 - Master of Science, Computer Science, 2009
-- Bachelor of Science, Comptuter Science, 2007
+- Bachelor of Science, Computer Science, 2007
 - Dean's List
 - President of ACM chapter
