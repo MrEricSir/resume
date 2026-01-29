@@ -6,7 +6,7 @@ San Francisco, California
 
 eric.paul.gregory@gmail.com
 
-Senior Software Engineer \| Generalist \| Full Stack \| Windows Expert \| FOSS Advocate \| Tinkerer \| Traveler
+Senior Software Engineer \| Generalist \| Full Stack \| Agile \| Windows Expert \| FOSS Advocate \| Tinkerer \| Traveler
 
 [mrericsir.github.io](https://mrericsir.github.io/) \| [linkedin.com/in/eric-p-gregory](https://www.linkedin.com/in/eric-p-gregory/)
 
@@ -20,7 +20,7 @@ Senior Software Engineer
 
 Feb 2021 - Jun 2024
 
-Tech stack: C++, Qt, QML, Javascript, Boost, embedded Linux
+Tech stack: C++, Qt, QML, Javascript, Boost, RESTful frontend, embedded Linux
 
 - **Frontend Development:** Created new product features for Origin wood carving tool in **C++** and **Qt/QML**
 - **Monetization & Extensions:** Engineered UI and high level product logic for a paid extension to the product.
@@ -34,7 +34,7 @@ Senior Software Engineer
 
 Aug 2015 - Dec 2020
 
-Tech stack: Python, Django, Falcon, Windows, C++, Postgres, AWS, Docker, C++, DLL injection
+Tech stack: Python, Django, Falcon, Twisted, RESTful services, Windows, C++, Postgres, SQL, AWS, Docker, C++, DLL injection, JIRA
 
 - **Database Optimization (SQL):** Managed a massive **Postgres** database via **Django**; successfully reduced primary DB load and storage size by migrating unstructured customer data to **AWS S3**.
 - **Cloud & Infrastructure:** Built and Dockerized **microservice** for deployment on **AWS EC2**.
@@ -49,7 +49,7 @@ Software Engineer
 
 Oct 2013 - Apr 2015
 
-Tech stack: C++, Windows
+Tech stack: C++, Windows, Scrum Agile methodology
 
 - **Advertising Technology:** Responsible for the uTorrent for Windows ad display engine.
 - **Stability Engineering:** Moved the ad display (**IAB** standard HTML via IWebBrowser2 COM control) to a multiprocess model, isolating Flash and JS-heavy ads to drastically reduce application crash rates.
@@ -61,7 +61,7 @@ Software Engineer
 
 Nov 2010 - Oct 2013
 
-Tech stack: Vala, C++, GTK+, Qt, QML, Javascript, HTML, GStreamer, Ubuntu Linux
+Tech stack: Vala, C++, GTK+, Qt, QML, Javascript, SQLite, SQL, HTML, GStreamer, Ubuntu Linux
 
 - **Local Database (SQLite):** Implemented **SQLite**-based storage systems for the Shotwell photo manager, Geary email client, and Ubuntu Phone Gallery
 - **Mobile Development:** Co-created the photo gallery application for [Ubuntu Touch](https://en.wikipedia.org/wiki/Ubuntu_Touch) (aka "Ubuntu Phone") using C++, JavaScript, and Qt/QML.
@@ -75,7 +75,7 @@ Software Team Lead
 
 Mar 2008 - Nov 2010
 
-Tech stack: C++, Java, Swing, Windows, ActiveX, DLL injection, Linux
+Tech stack: C++, Java, Swing, Windows, ActiveX, DLL injection, Linux, TeamCity, Scrum
 
 - **Reverse Engineering:** Enhanced company's core product, a **multi-platform** security compliance suite written in **C++.**
 - **Team Lead Engineer:** Led projects including Windows **sandboxing** application and deployment implementation of security compliance suite with **Java**-based UI, with Java applet and **ActiveX** client deployment option.
