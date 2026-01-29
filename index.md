@@ -8,7 +8,7 @@ eric.paul.gregory@gmail.com
 
 Senior Software Engineer \| Generalist \| Full Stack \| Agile \| Windows Expert \| FOSS Advocate \| Tinkerer \| Traveler
 
-[mrericsir.github.io](https://mrericsir.github.io/) \| [linkedin.com/in/eric-p-gregory](https://www.linkedin.com/in/eric-p-gregory/)
+[http://www.mrericsir.github.io](https://mrericsir.github.io/) \| [https://www.linkedin.com/in/eric-p-gregory](https://www.linkedin.com/in/eric-p-gregory/)
 
 
 # ⌨️ Work Experience
