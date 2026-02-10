@@ -1,0 +1,9 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Association for Computing Machinery chapter at SFSU
+  role: President
+  year: 2005 &mdash; 2007
+  url: https://web.archive.org/web/20070403014247/http://acm.sfsu.edu/joomla/
+  summary: Started a textbook sharing program, held events, led fundraising efforts.
+

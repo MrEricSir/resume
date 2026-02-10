@@ -1,0 +1,20 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+- project: munimet.ro
+  role: Creator
+  duration: 2025 &mdash; Present
+  url: "https://munimet.ro"
+  description: Status indicator webapp for San Francisco's light rail subways. Based on OpenCV, operated by Google Cloud Run. Partially vibe-coded in Claude Code.
+
+- project: Fang
+  role: Creator
+  duration: 2013 &mdash; Present
+  url: "https://getfang.com/"
+  description: Easy to use cross-platform news reader with a QML frontend and custom RSS parser. Displays news via embedded Chromium (CEF.)
+
+- project: InjectCrash
+  role: Creator
+  duration: 2016
+  url: "https://github.com/MrEricSir/InjectCrash"
+  description: Windows command line utility to crash another process. Useful for testing crash reporters.
