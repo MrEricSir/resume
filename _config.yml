@@ -20,8 +20,7 @@ resume_contact_email:           "eric.paul.gregory@gmail.com"
 # resume_contact_telephone:       "555-7334"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "<p>San Francisco, California</p>
-<p><a href='mailto:eric.paul.gregory@gmail.com'>eric.paul.gregory@gmail.com</a></p>
+resume_header_contact_info:     "<p>San Francisco, California | <a href='mailto:eric.paul.gregory@gmail.com'>eric.paul.gregory@gmail.com</a></p>
 <p>Generalist | Full Stack | Agile | Windows Expert | FOSS Advocate | Tinkerer | Traveler</p>"
 display_header_contact_info:    "true"
 
