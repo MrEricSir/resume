@@ -1,19 +1,19 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: munimet.ro: San Francisco light rail subway status webapp
+- project: "munimet.ro: San Francisco light rail subway status webapp"
   role: Creator
   duration: 2025 &mdash; Present
   url: "https://munimet.ro"
   description: Battle-tested webapp based on on OpenCV/Tesseract image detection and label parsing. Runs on Google Cloud Run for low cost, high availability.
   
-- project: Cardo: Multiplatform podcast client
+- project: "Cardo: Multiplatform podcast client"
   role: Maintainer
   duration: 2025 &mdash; Present
   url: "https://github.com/cardo-podcast/cardo"
   description: Engineered search integrations in the TypeScript/React stack. Structured DevOps workflow with documentation and scripts.
 
-- project: Fang: Multiplatform RSS news reader
+- project: "Fang: Multiplatform RSS news reader"
   role: Creator
   duration: 2013 &mdash; Present
   url: "https://getfang.com/"
