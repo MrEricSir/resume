@@ -11,11 +11,11 @@
   role: Maintainer
   duration: 2025 &mdash; Present
   url: "https://github.com/cardo-podcast/cardo"
-  description: Engineered search integrations in the TypeScript/React stack. Structured DevOps workflow with documentation and scripts.
+  description: Engineered modular search engine integrations and responsive UI components using React and TypeScript. Leveraged Tauri to build a modern frontend on a lightweight integrated browser. Structured DevOps workflow with documentation and scripts.
 
 - project: "Fang: Multiplatform RSS news reader"
   role: Creator
   duration: 2013 &mdash; Present
   url: "https://getfang.com/"
-  description: Engineered custom RSS/Atom parsing engine. Optimized database for lightning fast display and search. Built custom REST-based Chromium Embeded Framework stack.
+  description: Developed custom RSS/Atom parsing engine. Optimized database for lightning fast display and search. Built custom RESTfuulChromium Embeded Framework stack.
 
