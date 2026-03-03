@@ -1,11 +1,15 @@
 # Jobs
 
+- company: Sabatical
+  duration: Oct 2024 &mdash; Present
+  summary: "<p>Time off for health recovery. Caught up on AI-assisted development practices, TypeScript, and GCP.</p>"
+
 - company: Shaper Tools
   position: Senior Software Engineer
   duration: Feb 2021 &mdash; Jun 2024
-  summary: "<p>Tech stack: C++, Qt, QML, Javascript, Boost, RESTful frontend, embedded Linux</p>
+  summary: "<p>Tech stack: C++, Qt, QML, JavaScript, Boost, RESTful frontend, embedded Linux</p>
 <ul style=\"list-style-type: '» ';\">
-<li><b>Frontend Development:</b> Created new product features for Origin wood carving tool in C++ and Qt/QML.
+<li><b>Frontend Development:</b> Created new product features for Origin wood carving tool in JavaScript, C++, Qt, and Qt/QM.
 <li><b>Monetization & Extensions:</b> Engineered UI and high level product logic for a paid extension to the product.
 <li><b>Hardware-Aware Logic:</b> Designed resilient trial-tracking logic to ensure accurate expiration even in cases of hardware failure (dead onboard CMOS battery.)
 <li><b>QA Automation:</b>  Crafted reliable, repeatable automated tests to catch regressions prior to manual testing.
@@ -38,9 +42,9 @@
 - company: Yorba Foundation
   position: Software Engineer
   duration: Nov 2010 &mdash;  Oct 2013
-  summary: "<p>Tech stack: Vala, C++, GTK+, Qt, QML, Javascript, SQLite, SQL, HTML, GStreamer, Ubuntu Linux<p>
+  summary: "<p>Tech stack: Vala, C++, GTK+, Qt, QML, JavaScript, SQLite, SQL, HTML, GStreamer, Ubuntu Linux<p>
 <ul style=\"list-style-type: '» ';\">
-<li><b>Local Database (SQLite):</b> Implemented SQLite-based storage systems for the Shotwell photo manager, Geary email client, and Ubuntu Phone Gallery
+<li><b>Local Database (SQLite):</b> Developed SQLite-based storage systems for the Shotwell photo manager, Geary email client, and Ubuntu Phone Gallery
 <li><b>Mobile Development:</b> Co-created the photo gallery application for Ubuntu Touch (aka “Ubuntu Phone”) using C++, JavaScript, and Qt/QML.
 <li><b>Protocol Implementation:</b> Contributed to custom IMAP/SMTP stacks for Geary.
 <li><b>UI Design:</b> Crafted HTML-based email display for Geary, QML-based UI for Ubuntu Phone, and refreshed GTK+ UI for Shotwell.
