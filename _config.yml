@@ -21,7 +21,7 @@ resume_contact_email:           "eric.paul.gregory@gmail.com"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 resume_header_contact_info:     "<p>San Francisco, California | <a href='mailto:eric.paul.gregory@gmail.com'>eric.paul.gregory@gmail.com</a></p>
-<p>Full Stack | Python | JavaScript | C++ | Browser Engine Integrations | Agile | FOSS Advocate</p>"
+<p>Full Stack | Python | JavaScript | C++ | Browser Engine Integrations | Agile</p>"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>When was the last time you used software that was so seamless, you didn't know you were using it? I believe software should feel like magic and its users should love it, not just tolerate it.</p>
@@ -31,7 +31,7 @@ resume_header_intro: "<p>When was the last time you used software that was so se
   <li>Backends powered by Python, Postgres, and Docker
   <li>C++ and Qt for embedded Linux and cross-platform desktop
   <li>Unit and integration testing
-  <li>AI-assisted coding
+  <li>AI-assisted coding via Claude Code
   <li>Mentorship of junior engineers and interns</p>
 </ul>
 
