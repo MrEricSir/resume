@@ -5,7 +5,7 @@
   role: Creator
   duration: 2025 &mdash; Present
   url: "https://munimet.ro"
-  description: Battle-tested webapp based on OpenCV/Tesseract image detection and label parsing. Runs on Google Cloud Run for low cost, high availability.
+  description: Battle-tested webapp based on OpenCV/Tesseract image detection and label parsing. Runs on Google Cloud Run for low cost, high availability. Built CI/CD test runner on GitHub Actions for validating changes.
   
 - project: "Cardo: Multiplatform podcast client"
   role: Maintainer
@@ -17,5 +17,5 @@
   role: Creator
   duration: 2013 &mdash; Present
   url: "https://getfang.com/"
-  description: Developed custom RSS/Atom parsing engine. Optimized database for lightning fast display and search. Built custom RESTfuulChromium Embeded Framework stack.
+  description: Developed custom RSS/Atom parsing engine. Optimized database for lightning fast display and search. Built custom RESTfuulChromium Embeded Framework stack. Implemented CI/CD via GitHub Actions.
 
