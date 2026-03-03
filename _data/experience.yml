@@ -1,15 +1,15 @@
 # Jobs
 
-- company: Sabatical
+- company: Career sabbatical
   duration: Oct 2024 &mdash; Present
-  summary: "<p>Time off for health recovery. Caught up on AI-assisted development practices, TypeScript, and GCP.</p>"
+  summary: "<p>Focused on AI-assisted development practices, TypeScript, and GCP.</p>"
 
 - company: Shaper Tools
   position: Senior Software Engineer
   duration: Feb 2021 &mdash; Jun 2024
-  summary: "<p>Tech stack: C++, Qt, QML, JavaScript, Boost, RESTful frontend, embedded Linux</p>
+  summary: "<p>Tech stack: Qt/QML, JavaScript, C++, Boost, RESTful frontend, embedded Linux</p>
 <ul style=\"list-style-type: '» ';\">
-<li><b>Frontend Development:</b> Created new product features for Origin wood carving tool in JavaScript, C++, Qt, and Qt/QM.
+<li><b>Frontend Development:</b> Created new product features for Origin wood carving tool in JavaScript, C++, and Qt/QML.
 <li><b>Monetization & Extensions:</b> Engineered UI and high level product logic for a paid extension to the product.
 <li><b>Hardware-Aware Logic:</b> Designed resilient trial-tracking logic to ensure accurate expiration even in cases of hardware failure (dead onboard CMOS battery.)
 <li><b>QA Automation:</b>  Crafted reliable, repeatable automated tests to catch regressions prior to manual testing.
@@ -19,7 +19,7 @@
 - company: Fivestars
   position: Senior Software Engineer
   duration:  Aug 2015 &mdash; Dec 2020
-  summary: "<p>Tech stack: Python, Django, Falcon, Twisted, RESTful services, Windows, C++, Postgres, SQL, AWS, Docker, C++, DLL injection, JIRA</p>
+  summary: "<p>Tech stack: Python, Django, Falcon, Twisted, RESTful full stack, Windows, C++, Postgres, SQL, AWS, Docker, C++, DLL injection, JIRA</p>
 <ul style=\"list-style-type: '» ';\">
 <li><b>Database Optimization (SQL):</b> Managed a massive Postgres database via Django; successfully reduced primary DB load and storage size by migrating unstructured customer data to AWS S3.
 <li><b>Cloud & Infrastructure:</b> Built and Dockerized microservice for deployment on AWS EC2.
@@ -34,8 +34,7 @@
   duration: Oct 2013 &mdash; Apr 2015
   summary: "<p>Tech stack: C++, Windows, Scrum Agile methodology</p>
 <ul style=\"list-style-type: '» ';\">
-<li><b>Advertising Technology:</b> Responsible for the uTorrent for Windows ad display engine.
-<li><b>Stability Engineering:</b> Moved the ad display (IAB standard HTML via IWebBrowser2 COM control) to a multiprocess model, isolating Flash and JS-heavy ads to drastically reduce application crash rates.
+<li><b>Advertising and Stability Engineering:</b> Migrated the ad display stack to a multiprocess lightweight browser with IAB standard HTML, drastically reducing application crash rates.
 </ul>
 "
 
@@ -57,6 +56,6 @@
   summary: "<p>Tech stack: C++, Java, Swing, Windows, ActiveX, DLL injection, Linux, TeamCity, Scrum</p>
 <ul style=\"list-style-type: '» ';\">
 <li><b>Reverse Engineering:</b> Enhanced company’s core product, a multi-platform security compliance suite written in C++.
-<li><b>Team Lead Engineer:</b> Led projects including Windows sandboxing application and deployment implementation of security compliance suite with Java-based UI, with Java applet and ActiveX client deployment option.
+<li><b>Team Lead Engineer:</b> Led projects including Windows sandboxing application and deployment implementation of security compliance suite with Java-based UI and multiple endpoint deployment option.
 </ul>
 "
