@@ -5,7 +5,7 @@
   role: Creator
   duration: 2025 &mdash; Present
   url: "https://munimet.ro"
-  description: Battle-tested webapp based on on OpenCV/Tesseract image detection and label parsing. Runs on Google Cloud Run for low cost, high availability.
+  description: Battle-tested webapp based on OpenCV/Tesseract image detection and label parsing. Runs on Google Cloud Run for low cost, high availability.
   
 - project: "Cardo: Multiplatform podcast client"
   role: Maintainer
