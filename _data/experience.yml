@@ -19,7 +19,7 @@
 - company: Fivestars
   position: Senior Software Engineer
   duration:  Aug 2015 &mdash; Dec 2020
-  summary: "<p>Tech stack: Python, Django, Falcon, Twisted, RESTful full stack, Windows, C++, Postgres, SQL, AWS, Docker, C++, DLL injection, JIRA</p>
+  summary: "<p>Tech stack: Python, Django, Falcon, Twisted, RESTful full stack, Windows, Postgres, SQL, AWS, Docker, C++, DLL injection, JIRA</p>
 <ul style=\"list-style-type: '» ';\">
 <li><b>Database Optimization (SQL):</b> Managed a massive Postgres database via Django; successfully reduced primary DB load and storage size by migrating unstructured customer data to AWS S3.
 <li><b>Cloud & Infrastructure:</b> Built and Dockerized microservice for deployment on AWS EC2.
