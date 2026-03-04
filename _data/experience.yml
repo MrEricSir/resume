@@ -1,8 +1,12 @@
 # Jobs
 
-- company: Career sabbatical
+- company: Career sabbatical, independent projects
   duration: Oct 2024 &mdash; Present
-  summary: "<p>Focused on AI-assisted development practices, TypeScript, and GCP.</p>"
+  summary: "<li><b>Modern Stack Architecture:</b> Collaborated on an open source podcast client using React and TypeScript hosted on a multiplaform Tauri frontend.
+<li><<b>AI-Assisted Development:</b> Used Claude Code for AI-assisted development.
+<li><<b>Google Cloud Platform:</b> Managed deployments on Google Cloud Platform (GCP) with scalable Cloud Run jobs.
+<li><<b>DevOps and CI/CD Automation:</b> Built and maintained build validation and automated unit testing with GitHub Actions.
+"
 
 - company: Shaper Tools
   position: Senior Software Engineer
