@@ -17,5 +17,5 @@
   role: Creator
   duration: 2013 &mdash; Present
   url: "https://getfang.com/"
-  description: Developed custom RSS/Atom parsing engine. Optimized database for lightning fast display and search. Built custom RESTfuulChromium Embeded Framework stack. Implemented CI/CD via GitHub Actions.
+  description: Developed custom RSS/Atom parsing engine. Optimized database for lightning fast display and search. Built custom RESTful Chromium Embedded Framework stack. Implemented CI/CD via GitHub Actions.
 
