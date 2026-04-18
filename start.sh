@@ -6,7 +6,8 @@ if [ -f .jekyll-pid ]; then
   exit 1
 fi
 
-bundle exec jekyll serve --detach 2>&1 | tee /dev/stderr &
+LOG=$(mktemp)
+bundle exec jekyll serve --detach 2>&1 | tee "$LOG"
 sleep 2
 
 # Grab the PID of the Jekyll server
@@ -16,6 +17,13 @@ if [ -n "$PID" ]; then
   echo "Jekyll server started (PID $PID)"
   open "http://127.0.0.1:4000"
 else
-  echo "Failed to start Jekyll server."
+  echo ""
+  echo "Failed to start Jekyll server. Output:"
+  echo "----------------------------------------"
+  cat "$LOG"
+  echo "----------------------------------------"
+  echo ""
+  echo "Tip: run 'bundle exec jekyll serve --trace' for a full backtrace."
   exit 1
 fi
+rm -f "$LOG"

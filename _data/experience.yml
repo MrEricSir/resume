@@ -1,11 +1,25 @@
 # Jobs
 
+- company: Trainsit
+  position: Founding Full Stack Engineer
+  duration: April 2026 &mdash; Present
+  summary: "<p>Tech stack: Python, React, Claude Code, Google Cloud Platform</p>
+<ul style=\"list-style-type: '» ';\">
+<li><b>DevEx:</b> Reduced new engineer onboarding time to about an hour via local installation and configuration scripts.
+<li><b>AI-Assisted Development:</b> Developed, diagnosed, and maintained a rapidly growing feature set via Claude Code and CodeRabbit.
+<li><b>Database Automation:</b> Instrumented a database migration system designed to function locally as well as in staging/production environments.
+</ul>
+"
+
 - company: Career sabbatical, independent projects
-  duration: Oct 2024 &mdash; Present
-  summary: "<li><b>Modern Stack Architecture:</b> Collaborated on an open source podcast client using React and TypeScript hosted in a multi-platform Tauri process.
+  duration: Oct 2024 &mdash; March 2026
+  summary: "<p>Tech stack: Claude Code, Google Cloud Platform, TypeScript, React, Python, OpenCV, Tauri, Qt, C++</p>
+<ul style=\"list-style-type: '» ';\">
+<li><b>Modern Stack Architecture:</b> Collaborated on an open source podcast client using React and TypeScript hosted in a multi-platform Tauri process.
 <li><b>AI-Assisted Development:</b> Used Claude Code for rapid prototyping, diagnosing bugs, and crafting unit tests.
 <li><b>Google Cloud Platform:</b> Managed deployments on Google Cloud Platform (GCP) with scalable Cloud Run jobs.
 <li><b>DevOps and CI/CD Automation:</b> Built and maintained build validation and automated unit testing with GitHub Actions.
+</ul>
 "
 
 - company: Shaper Tools
@@ -17,7 +31,7 @@
 <li><b>Monetization & Extensions:</b> Engineered UI and high level product logic for a paid extension to the product.
 <li><b>Hardware-Aware Logic:</b> Designed resilient trial-tracking logic to ensure accurate expiration even in cases of hardware failure (dead onboard CMOS battery.)
 <li><b>QA Automation:</b>  Crafted reliable, repeatable automated tests to catch regressions prior to manual testing.
-<ul>
+</ul>
 "
 
 - company: Fivestars
