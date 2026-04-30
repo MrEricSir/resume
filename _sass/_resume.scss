@@ -199,7 +199,7 @@
 @media print {
   .no-print { display: none !important }
   .print-only { display: block !important }
-  body { font-size: 12px; line-height: 1rem; }
+  body { font-size: 12px; line-height: 1.4; }
   .page-header { padding: 1rem 0 .2rem;
     .header-name {
       @include sans_bold;
@@ -210,20 +210,35 @@
   .section-header {
     @include section_border_thin;
     margin-bottom: 1rem;
-    h2 { font-size: 1.2rem; line-height: 1.5rem; }
+    h2 { font-size: 1.2rem; line-height: 1.4; }
+  }
+  .print-only .header-title {
+    @include sans;
+    font-weight: 400;
+    font-size: 1.4rem;
+    letter-spacing: -.05rem;
+    text-align: center;
+    margin: .2rem 0 .5rem;
+    line-height: 1.3;
+  }
+  .executive-summary,
+  .executive-summary p,
+  .executive-summary li {
+    font-size: 12px;
+    line-height: 1.4;
   }
   .content-section {
     margin: 0 0 1rem;
     .resume-item { margin-bottom: 1rem; }
     .resume-item-title {
       font-size: 16px;
-      line-height: .7em;
+      line-height: 1.3;
     }
 
     .resume-item-details {
       font-size: 12px;
       margin: 0 0 .75rem;
-      line-height: .7em;
+      line-height: 1.3;
       font-style:italic;
 
       &.award-title {
