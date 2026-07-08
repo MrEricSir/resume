@@ -5,6 +5,7 @@
   duration: April 2026 &mdash; Present
   summary: "<p>Tech stack: Python, React, Claude Code, Google Cloud Platform, Postgres</p>
 <ul style=\"list-style-type: '» ';\">
+<li><b>Payment Automation:</b> Researched and built customer invoice pipeline to accept payments via Mercury.
 <li><b>DevEx:</b> Reduced setup time to about an hour for new development environments.
 <li><b>AI-Assisted Development:</b> Developed, diagnosed, and maintained a rapidly growing feature set via Claude Code and CodeRabbit.
 <li><b>Database Automation:</b> Instrumented a database migration system designed to function locally as well as in demo/staging/production environments.
